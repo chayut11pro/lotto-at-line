@@ -1,0 +1,133 @@
+[30-Apr-2020 07:35:18 UTC] PHP Fatal error:  Cannot declare class CreateSocialAccountsTable, because the name is already in use in /home/camerazero/public_html/line/database/migrations/2020_04_30_063034_create_social_accounts_table.php on line 33
+[30-Apr-2020 07:36:27 UTC] PHP Fatal error:  Cannot declare class CreateSocialAccountsTable, because the name is already in use in /home/camerazero/public_html/line/database/migrations/2020_04_30_063034_create_social_accounts_table.php on line 33
+[30-Apr-2020 07:37:37 UTC] PHP Fatal error:  Cannot declare class CreateSocialAccountsTable, because the name is already in use in /home/camerazero/public_html/line/database/migrations/2020_04_30_063034_create_social_accounts_table.php on line 33
+[30-Apr-2020 14:09:43 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequireb7227eb28dc81b0d268d394ace0f7da0('e617b14322a0743...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInitb7227eb28dc81b0d268d394ace0f7da0::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:09:43 UTC] PHP Fatal error:  composerRequireb7227eb28dc81b0d268d394ace0f7da0(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:11:08 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequireb7227eb28dc81b0d268d394ace0f7da0('e617b14322a0743...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInitb7227eb28dc81b0d268d394ace0f7da0::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:11:08 UTC] PHP Fatal error:  composerRequireb7227eb28dc81b0d268d394ace0f7da0(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:14:01 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequireb7227eb28dc81b0d268d394ace0f7da0('e617b14322a0743...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInitb7227eb28dc81b0d268d394ace0f7da0::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:14:01 UTC] PHP Fatal error:  composerRequireb7227eb28dc81b0d268d394ace0f7da0(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:16:27 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequireb7227eb28dc81b0d268d394ace0f7da0('e617b14322a0743...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInitb7227eb28dc81b0d268d394ace0f7da0::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:16:27 UTC] PHP Fatal error:  composerRequireb7227eb28dc81b0d268d394ace0f7da0(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:19:57 UTC] PHP Warning:  require(/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:19:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:20:07 UTC] PHP Warning:  require(/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:20:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:23:28 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('e617b14322a0743...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:23:28 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:23:51 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../App/Http/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('b5a7cae8a790646...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatche in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:23:51 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../App/Http/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:24:26 UTC] PHP Warning:  Uncaught ErrorException: require(/app/Http/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/app/Ht...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('4a1e3913ce19a1f...', '/app/Http/Helpe...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php(282): Illuminate\Foundation\ComposerScripts::post in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:24:26 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/app/Http/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:25:07 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../app/Http/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('f902bd9e10b3b6d...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatche in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:25:07 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Http/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:25:35 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../app/Http/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('f902bd9e10b3b6d...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatche in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:25:35 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Http/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:26:11 UTC] PHP Warning:  Uncaught ErrorException: require(/public_html/line/app/Http/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/public...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('f4efd513d411305...', '/public_html/li...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php(282): Illuminate\Foundation\Comp in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:26:11 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/public_html/line/app/Http/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:26:39 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('7ee9967bcf8aa29...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php(282 in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:26:39 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:27:34 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../ /app/Http/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('15f90c23ea66c3f...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatc in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:27:34 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../ /app/Http/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:27:36 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../ /app/Http/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('15f90c23ea66c3f...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatc in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:27:36 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../ /app/Http/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:27:56 UTC] PHP Warning:  Uncaught ErrorException: require(/home/camerazero/public_html/line/vendor/composer/../../app/Http/Helper.php): failed to open stream: No such file or directory in /home/camerazero/public_html/line/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/camerazer...', 66, Array)
+#1 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(66): require()
+#2 /home/camerazero/public_html/line/vendor/composer/autoload_real.php(56): composerRequire85d8391555945f834da29d70b1e71fd8('b4b02b1a9a32dd9...', '/home/camerazer...')
+#3 /home/camerazero/public_html/line/vendor/autoload.php(7): ComposerAutoloaderInit85d8391555945f834da29d70b1e71fd8::getLoader()
+#4 /home/camerazero/public_html/line/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php(43): require_once('/home/camerazer...')
+#5 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatche in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
+[30-Apr-2020 14:27:56 UTC] PHP Fatal error:  composerRequire85d8391555945f834da29d70b1e71fd8(): Failed opening required '/home/camerazero/public_html/line/vendor/composer/../../app/Http/Helper.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/camerazero/public_html/line/vendor/composer/autoload_real.php on line 66
